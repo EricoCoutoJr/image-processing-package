@@ -14,7 +14,7 @@ setup(
     description="## Descrição",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/EricoCoutoJr/image-processing-package"
+    url="https://github.com/EricoCoutoJr/image-processing-package.git",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
